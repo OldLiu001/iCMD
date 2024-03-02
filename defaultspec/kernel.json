@@ -1,0 +1,6 @@
+{
+    "argv": ["python", "-m", "iCMD", "-f", "{connection_file}"],
+    "display_name": "CMD",
+    "language": "cmdline",
+    "interrupt_mode": "message"
+}
